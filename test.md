@@ -8,3 +8,9 @@
   images/2025.jpg
 images/2025.jpg
 !Shock
+
+
+<p align="center">
+  images/2025.jpg
+</p>
+

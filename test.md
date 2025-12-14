@@ -4,6 +4,6 @@
 ### H3 標題
 
 <p align="center">
-  images/2025.jpg
+  2025.jpg
 </p>
 
